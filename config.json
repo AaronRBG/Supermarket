@@ -1,0 +1,3 @@
+{
+  "connectionString": "server=localhost;database=Supermarket;Trusted_Connection=True;"
+}
